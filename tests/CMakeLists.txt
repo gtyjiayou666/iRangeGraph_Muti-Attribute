@@ -1,0 +1,8 @@
+add_executable(buildindex buildindex.cpp)
+add_executable(search_multi_interval search_multi_interval.cpp)
+add_executable(lex lex.cpp)
+add_executable(zorder zorder.cpp)
+add_executable(search_multi_attribute_zorder_and search_multi_attribute_zorder_and.cpp)
+add_executable(search_multi_attribute_zorder_or search_multi_attribute_zorder_or.cpp)
+add_executable(search_multi_attribute_lex_and search_multi_attribute_lex_and.cpp)
+add_executable(search_multi_attribute_lex_or search_multi_attribute_lex_or.cpp)
